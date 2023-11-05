@@ -1,4 +1,3 @@
- [![MasterHead](https://www.istockphoto.com/tr/vekt%C3%B6r/program-code-python-and-flask-framework-gm1346047861-423930891?phrase=python)
 
 <h1 align="center">Hi 👋, I'm Furkan Mert Sağlam</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
